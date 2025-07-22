@@ -1,0 +1,6 @@
+export { compose } from './Composer'
+export { createOscillator } from './Oscillator'
+export { createFilter } from './Filter'
+export { createAmplifier } from './Amplifier'
+export { getContext } from './SharedContext'
+export type { AudioModule, ModulerNode } from './Composer'

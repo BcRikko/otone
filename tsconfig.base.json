@@ -10,7 +10,4 @@
     "strict": true,
     "skipLibCheck": true,
   },
-  "include": [
-    "packages/**/*"
-  ]
 }
