@@ -12,6 +12,7 @@
   "packageManager": "pnpm@10.12.2",
   "devDependencies": {
     "eslint": "^9.31.0",
-    "eslint-config-bcrikko": "^2.0.0"
+    "eslint-config-bcrikko": "^2.0.0",
+    "typescript": "^5.8.3"
   }
 }
